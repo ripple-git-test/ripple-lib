@@ -1,6 +1,7 @@
 #THIS IS A _TEST_ FORK FOR WORKING WITH RIPPLE-GIT-BOT
 
 Test commits:
+
 1. commit one
 
 #The Ripple JavaScript Library
