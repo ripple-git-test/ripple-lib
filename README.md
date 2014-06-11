@@ -1,3 +1,9 @@
+#THIS IS A _TEST_ FORK FOR WORKING WITH RIPPLE-GIT-BOT
+
+##Test commits:
+
+1. commit one
+
 #The Ripple JavaScript Library
 
 [![Build Status](https://travis-ci.org/ripple/ripple-lib.svg?branch=develop)](https://travis-ci.org/ripple/ripple-lib) [![Coverage Status](https://coveralls.io/repos/ripple/ripple-lib/badge.png?branch=develop)](https://coveralls.io/r/ripple/ripple-lib?branch=develop)
