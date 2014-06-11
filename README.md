@@ -4,6 +4,7 @@
 
 1. commit one
 2. commit two
+3. commit three
 
 #The Ripple JavaScript Library
 
