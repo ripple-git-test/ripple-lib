@@ -3,7 +3,6 @@
 ##Test commits:
 
 1. commit one
-2. commit two
 
 #The Ripple JavaScript Library
 
