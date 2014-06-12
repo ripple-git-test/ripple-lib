@@ -9,6 +9,7 @@
 5. commit five
 6. commit six
 7. commit seven
+8. commit eight
 
 #The Ripple JavaScript Library
 
