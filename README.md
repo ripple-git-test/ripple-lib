@@ -14,6 +14,7 @@
 10. commit ten
 11. commit eleven
 12. commit twelve
+13. commit thirteen
 
 #The Ripple JavaScript Library
 
